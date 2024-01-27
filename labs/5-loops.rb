@@ -9,6 +9,13 @@
 ranks = [2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"]
 suits = ["Clubs", "Diamonds", "Hearts", "Spades"]
 
+for rank in ranks do
+    for suit in suits do
+      puts "#{rank} of #{suit}"
+    end
+  end
+
+
 # Sample output:
 # 2 of Clubs
 # 2 of Diamonds

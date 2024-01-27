@@ -13,3 +13,21 @@
 # Elsif Conditional Logic
 
 # Combining Expressions
+
+# input
+
+fav_food = "tacos"
+lunch = "tacos"
+
+# output
+if fav_food == lunch
+    puts "yay"
+end
+
+# input
+
+real_password = "tacos"
+user_entered_password = "secret"
+
+# output
+
